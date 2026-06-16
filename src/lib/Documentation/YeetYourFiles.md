@@ -2,7 +2,7 @@
 
 *"Upload files to the cloud by throwing it into outer space!"*
 
-The YeetYourFiles extension allows you to upload files directly from your PenguinMod/TurboWarp projects to the YeetYourFiles hosting service. This extension provides blocks for uploading various types of files, tracking upload status, and retrieving file information.
+The YeetYourFiles extension allows you to upload files directly from your PatternYard/TurboWarp projects to the YeetYourFiles hosting service. This extension provides blocks for uploading various types of files, tracking upload status, and retrieving file information.
 
 ## File Upload Blocks
 
@@ -173,7 +173,7 @@ end
 
 ## Error Handling
 
-(You can use PenguinMod's Try and Catch block with it!)
+(You can use PatternYard's Try and Catch block with it!)
 
 The extension includes built-in error handling for common issues:
 

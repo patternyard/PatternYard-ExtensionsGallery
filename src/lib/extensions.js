@@ -45,7 +45,7 @@ export default [
     },
     {
         name: "Boxed Physics",
-        description: "Implements the Box2D physics engine into PenguinMod, adding joints, springs, etc. This is different from TurboWarp's implementation.",
+        description: "Implements the Box2D physics engine into PatternYard, adding joints, springs, etc. This is different from TurboWarp's implementation.",
         code: "pooiod/Box2D.js",
         banner: "pooiod/B2Dimg.svg",
         creator: "pooiod7",
@@ -365,7 +365,7 @@ export default [
     },
     {
         name: "Pang API",
-        description: "Fetch information from the PenguinMod API.",
+        description: "Fetch information from the PatternYard API.",
         code: "SammerLOL/pangapi.js",
         banner: "SammerLOL/pangapi.avif",
         creator: "oc9x97",
@@ -389,7 +389,7 @@ export default [
     },
     {
         name: "CORS Proxy",
-        description: "Accessible CORS Proxies for fetching information with PenguinMod.",
+        description: "Accessible CORS Proxies for fetching information with PatternYard.",
         code: "NamelessCat/corsproxy.js",
         banner: "NamelessCat/corsproxy.avif",
         creator: "NamelessCat",
@@ -507,7 +507,7 @@ export default [
     },
     {
         name: "Twitch",
-        description: "Communicate with your Twitch Chat on PenguinMod!\n\nPenguinMod is not affiliated with Twitch.",
+        description: "Communicate with your Twitch Chat on PatternYard!\n\nPatternYard is not affiliated with Twitch.",
         code: "bop_tw/Twitch.js",
         banner: "bop_tw/Twitch.avif",
         creator: "bop_tw",
@@ -539,7 +539,7 @@ export default [
     },
     {
         name: "More Types",
-        description: "Adds more value types to PenguinMod, implementing Functions, Objects, Arrays, Sets, Maps, Symbols and Nothing.",
+        description: "Adds more value types to PatternYard, implementing Functions, Objects, Arrays, Sets, Maps, Symbols and Nothing.",
         code: "VeryGoodScratcher42/More-Types.js",
         banner: "VeryGoodScratcher42/More-Types.avif",
         creator: "VeryGoodScratcher42",
@@ -555,7 +555,7 @@ export default [
     },
     {
         name: "Counter++",
-        description: "Count anything, at any time, in PenguinMod!",
+        description: "Count anything, at any time, in PatternYard!",
         code: "MrRedstonia/counterplusplus.js",
         banner: "MrRedstonia/counterplusplus.avif",
         creator: "MrRedstonia",
@@ -619,7 +619,7 @@ export default [
     },
     {
         name: "Better Storage",
-        description: "Like PenguinMod's Storage Extension, but with a couple more features, and faster servers.",
+        description: "Like PatternYard's Storage Extension, but with a couple more features, and faster servers.",
         code: "Gen1x/better_storage.js",
         banner: "Gen1x/betterstorage.avif",
         creator: "G1nX",

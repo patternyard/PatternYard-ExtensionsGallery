@@ -51,7 +51,7 @@
 
 <div class="bar">
     <a class="logo" href="/">
-        <img class="logo-image" src="/navicon.png" alt="PenguinMod" />
+        <img class="logo-image" src="/navicon.png" alt="PatternYard" />
     </a>
     <div style="margin-right: 12px;"></div>
     <BarPage style="padding:0.5rem" onclick={toggleTheme}>
