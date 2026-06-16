@@ -227,7 +227,7 @@
 <div class="top">
     <div class="header">
         <Logo />
-        <h1>PenguinMod Extra Extensions</h1>
+        <h1>PatternYard Extra Extensions</h1>
     </div>
 </div>
 <div class="buffer">
@@ -236,14 +236,14 @@
         <p>
             To add an extension to your project, click the "Add to Project" button.
             You can also click the "Copy" button and
-            <a href="/load" target="_blank">load it into PenguinMod</a>
+            <a href="/load" target="_blank">load it into PatternYard</a>
             if the former fails.
         </p>
     {:else}
         <p>
             To use some of these extensions in your projects, click the "Copy Link"
             button on an extension and
-            <a href="/load" target="_blank">load it into PenguinMod,</a>
+            <a href="/load" target="_blank">load it into PatternYard,</a>
             or click the "Try it out" button to create a new project with the extension.
         </p>
     {/if}
@@ -374,7 +374,7 @@
 <div class="buffer">
     <p style="text-align: center;">
         Note: Some extensions may be added to the Extension Gallery in
-        PenguinMod Studio.
+        PatternYard Studio.
         <br />
         If you cannot find an extension that was
         previously listed here, check there.

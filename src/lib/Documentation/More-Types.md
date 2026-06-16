@@ -1,11 +1,11 @@
 # More Types
-More Types introduces 8 new types to PenguinMod: Object, Array, Set, Map, Symbol, Nothing, Function, and Class. 
+More Types introduces 8 new types to PatternYard: Object, Array, Set, Map, Symbol, Nothing, Function, and Class. 
 
 These types can be used to do all sorts of things.
 
 All of the new types, except for Nothing, are passed by reference, meaning that each new instance you create is different from every other instance.
 
-More Types also introduces OOP (Object Oriented Programming) to PenguinMod.
+More Types also introduces OOP (Object Oriented Programming) to PatternYard.
 
 NOTE: The square inputs cannot be displayed here, and we have turned them into circular inputs.
 ## Blocks
@@ -112,7 +112,7 @@ for key [my variable v] value [my variable v] in [Insert Object / Array / Map / 
 It loops through the object / array / set / map. The variable after "key" is the variable which is set to the key. The variable after "value" is the variable which is set to the value.
 For sets, key and value are the same.
 
-There is also a variation of this block which uses the variables from the PenguinMod Temporary Variables extension.
+There is also a variation of this block which uses the variables from the PatternYard Temporary Variables extension.
 ### create a symbol and nothing
 ```scratch
 create a symbol::#B300FF reporter

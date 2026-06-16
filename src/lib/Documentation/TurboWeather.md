@@ -1,4 +1,4 @@
-*This extension has a section in the [PenguinMod Privacy Policy](https://penguinmod.com/privacy) under "Editor extensions"*
+*This extension has a section in the [PatternYard Privacy Policy](https://penguinmod.com/privacy) under "Editor extensions"*
 
 ## Early documentation.
 

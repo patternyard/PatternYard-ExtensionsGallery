@@ -2,11 +2,11 @@
 
 # PENGUINAI IS NOW DEPRECATED. USE AT YOUR OWN RISK.
 
-Most of the models in this extension no longer work, and will not be fixed. See [This github issue](https://github.com/PenguinMod/PenguinMod-Home/issues/421) for more information. If this extension is present on an extension gallery, alert the owner to have it removed.
+Most of the models in this extension no longer work, and will not be fixed. See [This github issue](https://github.com/PatternYard/PatternYard-Home/issues/421) for more information. If this extension is present on an extension gallery, alert the owner to have it removed.
 
 ## Documentation
 
-The PenguinAI extension brings the power of artificial intelligence to your PenguinMod projects. This extension provides blocks for AI text generation, image creation, streaming conversations, and advanced chatbot management. Perfect for creating interactive AI-powered games, educational tools, and creative projects.
+The PenguinAI extension brings the power of artificial intelligence to your PatternYard projects. This extension provides blocks for AI text generation, image creation, streaming conversations, and advanced chatbot management. Perfect for creating interactive AI-powered games, educational tools, and creative projects.
 
 ## Getting Started
 
