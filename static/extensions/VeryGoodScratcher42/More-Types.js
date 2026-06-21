@@ -543,7 +543,7 @@
         id: 'vgscompiledvalues',
         name: 'More Types',
         color1: "#B300FF",
-        docsURI: "https://extensions.penguinmod.com/docs/more-types",
+        docsURI: "https://extensions.patternyard.dev/docs/more-types",
         blocks: [
           this.makeLabel("If you hover over blocks,"),
           this.makeLabel("there will be a tooltip."),

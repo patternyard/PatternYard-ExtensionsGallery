@@ -1,33 +1,7 @@
 # Files exempt from the "no upstream hosts" CI guard.
-# gitignore-style path globs; one per line. Only tooling that intentionally
-# references the upstream host to REWRITE it, migration provenance, and human
-# documentation belong here. Application/runtime code must never be hand-added.
+# All runtime hosts (incl. vendored third-party extension assets/services and the
+# OnlineCaptcha service) were repointed to patternyard.dev on 2026-06-21.
+# Only human documentation naming the upstream project remains.
 
-# Documentation legitimately names the upstream project and its hosts.
 **/*.md
 **/*.mdx
-
-# --- Baseline-seeded (2026-06-20) ---------------------------------------------
-# These files already carried upstream hosts from upstream engine code at
-# rollout time. Allowlisting them keeps the guard green today AND lets future
-# upstream merges into wycats-main land here without breaking CI. The guard
-# still fails on NEW host refs in any other (patternyard) file. This list
-# doubles as the known upstream-host debt inventory for this repo.
-src/app.html
-src/lib/Extension/Component.svelte
-src/lib/extension-loader.js
-static/extensions/0znzw/ScopeVars.js
-static/extensions/Ashime/funneimageblocks.js
-static/extensions/DogeisCut/Resolution.js
-static/extensions/DogeisCut/dogeiscutRegularExpressions.js
-static/extensions/Fruits555000/PaintUtils.js
-static/extensions/JeremyGamer13/FireInTheHole.js
-static/extensions/LordCat0/ProjectInterfaces.js
-static/extensions/MubiLop/authpenguin.js
-static/extensions/MubiLop/penguingpt.js
-static/extensions/MubiLop/yeetyourfiles.js
-static/extensions/NotHouse/DiscordAuth.js
-static/extensions/NotHouse/OnlineCaptcha.js
-static/extensions/SammerLOL/pangapi.js
-static/extensions/SharkPool/Particle-Tools.js
-static/extensions/VeryGoodScratcher42/More-Types.js

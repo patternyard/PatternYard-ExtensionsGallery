@@ -1,6 +1,6 @@
 // DiscordAuth - Made by NotHouse
 // Version 1.2.1
-// Get the lastest official release from https://extensions.penguinmod.com/extensions/NotHouse/DiscordAuth.js
+// Get the lastest official release from https://extensions.patternyard.dev/extensions/NotHouse/DiscordAuth.js
 
 function getDataFromObject(data, field) {
   if (data.hasOwnProperty(field)) {
@@ -93,7 +93,7 @@ class DiscordAuthExtension {
   }
 
   async openPopupAndWait() {
-    const callbackUrlBase64 = btoa("https://studio.penguinmod.com");
+    const callbackUrlBase64 = btoa("https://studio.patternyard.dev");
     this.popup = await window.open(`https://discordauth.mubilop.tech/verify?callback=${callbackUrlBase64}`, 'PopupWindow', 'width=450,height=700');
     const startTime = Date.now();
     const pollInterval = setInterval(async () => {

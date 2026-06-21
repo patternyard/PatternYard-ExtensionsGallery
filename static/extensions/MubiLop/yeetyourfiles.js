@@ -1223,7 +1223,7 @@
 
         getInfo() {
             return {
-				docsURI: 'https://extensions.penguinmod.com/docs/YeetYourFiles',
+				docsURI: 'https://extensions.patternyard.dev/docs/YeetYourFiles',
                 id: 'yeetyourfiles',
                 name: 'YeetYourFiles',
                 color1: '#FF8C00',  

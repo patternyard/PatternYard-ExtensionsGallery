@@ -16,7 +16,7 @@
                 id: 'dogeiscutResolution',
                 name: 'Resolution',
                 color1: "#009dff",
-                docsURI: 'https://extensions.penguinmod.com/docs/Resolution',
+                docsURI: 'https://extensions.patternyard.dev/docs/Resolution',
                 blocks: [
                     {
                         opcode: 'whenWindowResized',

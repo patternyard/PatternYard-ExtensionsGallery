@@ -251,7 +251,7 @@
                 name: "Paint Utils",
                 menuIconURI: paintUtilsIcon,
                 blockIconURI: paintUtilsIcon,
-                docsURI: "https://extensions.penguinmod.com/docs/PaintUtils",
+                docsURI: "https://extensions.patternyard.dev/docs/PaintUtils",
                 color1: "#d1d1d1",
                 color2: "#999999",
                 color3: "#999999",

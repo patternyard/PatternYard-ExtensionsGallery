@@ -8,7 +8,7 @@
  * @depricated
  */
 (function (Scratch) {
-    console.warn('Hey, I am rewritign this extension, check extensions.penguinmod.com for an update every now and then, this version is very bugged -Miyo');
+    console.warn('Hey, I am rewritign this extension, check extensions.patternyard.dev for an update every now and then, this version is very bugged -Miyo');
 
     if (!Scratch.extensions.unsandboxed) {
         throw new Error(`"Scope Variables (Compiled)" extension must be ran unsandboxed.`);

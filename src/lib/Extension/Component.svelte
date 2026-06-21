@@ -25,7 +25,7 @@
 
     // used for search
     let relUrl = $derived(props.relUrl);
-    const baseUrl = "https://studio.penguinmod.com/editor.html?extension=";
+    const baseUrl = "https://studio.patternyard.dev/editor.html?extension=";
 
     /**
      * The button to copy the URL
@@ -233,7 +233,7 @@
         {/if}
         {#if example}
             <p>
-                <a href={`https://studio.penguinmod.com/editor.html?project_url=${encodeURIComponent(`${$page.url.origin}/examples/projects/${example}`)}`}>
+                <a href={`https://studio.patternyard.dev/editor.html?project_url=${encodeURIComponent(`${$page.url.origin}/examples/projects/${example}`)}`}>
                     Example Project
                 </a>
             </p>

@@ -87,7 +87,7 @@
               block.opcode === 'pmBlock0znzw_test'
             )
               g.innerHTML = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0,0,92,92" id="ashime">
-  <image href="https://extensions.penguinmod.com/${mehPath}/test.png" height="92" width="92" />
+  <image href="https://extensions.patternyard.dev/${mehPath}/test.png" height="92" width="92" />
   </svg><!--rotationCenter:0:0-->`;
   
             if (
@@ -95,7 +95,7 @@
               block.opcode === 'pmBlock0znzw_jeremy'
             )
               g.innerHTML = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0,0,92,92" id="jeremy">
-  <image href="https://extensions.penguinmod.com/${mehPath}/jeremy.png" height="92" width="92" />
+  <image href="https://extensions.patternyard.dev/${mehPath}/jeremy.png" height="92" width="92" />
   </svg><!--rotationCenter:0:0-->`;
   
             if (
@@ -103,7 +103,7 @@
               block.opcode === 'pmBlock0znzw_moneutils'
             )
               g.innerHTML = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0,0,92,92" id="moneutils">
-  <image href="https://extensions.penguinmod.com/${mehPath}/sharkpool.png" height="92" width="92" />
+  <image href="https://extensions.patternyard.dev/${mehPath}/sharkpool.png" height="92" width="92" />
   </svg><!--rotationCenter:0:0-->`;
   
             if (
@@ -113,7 +113,7 @@
               g.innerHTML = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="200" viewBox="0,0,300,200" id="mrbeast">
               <foreignObject width="500" height="400">
                   <video xmlns="http://www.w3.org/1999/xhtml" width="300" height="200" autoplay="" muted="" loop="">
-                      <source src="https://penguinmod.com/mrbeast.mp4" type="video/mp4" />
+                      <source src="https://patternyard.dev/mrbeast.mp4" type="video/mp4" />
                   </video>
               </foreignObject>
   </svg><!--rotationCenter:0:0-->`;
@@ -123,7 +123,7 @@
               block.opcode === 'pmBlock0znzw_funneline'
             )
               g.innerHTML = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1" height="500" viewBox="0,0,92,92" id="funneline">
-  <image href="https://extensions.penguinmod.com/${mehPath}/line.png" height="1" width="500" />
+  <image href="https://extensions.patternyard.dev/${mehPath}/line.png" height="1" width="500" />
   </svg><!--rotationCenter:0:0-->`;
   
             if (
@@ -133,7 +133,7 @@
               g.innerHTML = `<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2000" height="2000" viewBox="0,0,200,200" id="trol">
               <foreignObject width="200" height="200">
                   <video xmlns="http://www.w3.org/1999/xhtml" width="200" height="200" autoplay="" muted="" loop="">
-                      <source src="https://extensions.penguinmod.com/${mehPath}/trol.mp4" type="video/mp4" />
+                      <source src="https://extensions.patternyard.dev/${mehPath}/trol.mp4" type="video/mp4" />
                   </video>
               </foreignObject>
   </svg><!--rotationCenter:0:0-->`;

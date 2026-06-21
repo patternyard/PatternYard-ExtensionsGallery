@@ -1,8 +1,8 @@
 (function (Scratch) {
     'use strict';
 
-    const normalFace = "https://library.penguinmod.com/files/emojis/cluelesssmile.png";
-    const fireInTheHoleAudio = "https://library.penguinmod.com/files/sounds/fire_in_the_hole.mp3";
+    const normalFace = "https://library.patternyard.dev/files/emojis/cluelesssmile.png";
+    const fireInTheHoleAudio = "https://library.patternyard.dev/files/sounds/fire_in_the_hole.mp3";
 
     const BlockType = Scratch.BlockType;
     const vm = Scratch.vm;
