@@ -10,7 +10,7 @@
 // == Harness the power of AI in your projects! ==
 // (YOU NEED TO LOAD UNSANDBOXED)
 // By LOLEMO, Forked by Anonymous_cat1 and then forked by MubiLop
-// Only tested on Penguinmod.com
+// Only tested on PenguinMod
 // IDs are not changed from PenguinGPT to PenguinAI for compability
 // Github repo for the extension: https://github.com/PenguinAI-Ext/extension
 
