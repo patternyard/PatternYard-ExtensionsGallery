@@ -484,7 +484,7 @@
             if (confirm(string)) {
                 // technically i only need to load objects since that will load arrays, but just in case
                 if (!vm.jwArray) vm.extensionManager.loadExtensionIdSync('jwArray')
-                if (!vm.dogeiscutObject) await vm.extensionManager.loadExtensionURL("https://extensions.penguinmod.com/extensions/DogeisCut/dogeiscutObject.js")
+                if (!vm.dogeiscutObject) await vm.extensionManager.loadExtensionURL("https://extensions.patternyard.dev/extensions/DogeisCut/dogeiscutObject.js")
                 vm.runtime.requestBlocksUpdate()
                 vm.runtime.requestToolboxExtensionsUpdate()
                 vm.emitWorkspaceUpdate()
@@ -587,7 +587,7 @@
     }
 
     (async () => {
-        if (!vm.dogeiscutObject) await vm.extensionManager.loadExtensionURL("https://extensions.penguinmod.com/extensions/DogeisCut/dogeiscutObject.js")
+        if (!vm.dogeiscutObject) await vm.extensionManager.loadExtensionURL("https://extensions.patternyard.dev/extensions/DogeisCut/dogeiscutObject.js")
         if (!vm.jwArray) vm.extensionManager.loadExtensionIdSync('jwArray')
         vm.runtime.requestBlocksUpdate()
         vm.runtime.requestToolboxExtensionsUpdate()

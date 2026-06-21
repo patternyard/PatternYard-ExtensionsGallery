@@ -19,7 +19,7 @@
         
         getInfo() {
             return {
-                docsURI: 'https://extensions.penguinmod.com/docs/AuthPenguin',
+                docsURI: 'https://extensions.patternyard.dev/docs/AuthPenguin',
                 color1: '#00c3ff',
                 id: 'authpenguin',
                 name: 'AuthPenguin',

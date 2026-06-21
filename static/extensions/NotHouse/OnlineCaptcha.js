@@ -1,5 +1,5 @@
 // OnlineCaptcha, by NotHouse
-// Powered via "captcha.penguinmod.com", by NotHouse
+// Powered via "captcha.patternyard.dev", by NotHouse
 // 1.0.1, beta release
 
 class onlinecaptcha {
@@ -35,7 +35,7 @@ class onlinecaptcha {
   async openCaptchaPopup() {
 
     try {
-      const response = await fetch(`https://captcha.penguinmod.com/create`, {
+      const response = await fetch(`https://captcha.patternyard.dev/create`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
@@ -46,7 +46,7 @@ class onlinecaptcha {
       const data = await response.json();
       if (response.ok) {
         this.captchaKey = data.key;
-        window.open(`https://captcha.penguinmod.com/?key=${this.captchaKey}`, 'PopupWindow', 'width=500,height=600');
+        window.open(`https://captcha.patternyard.dev/?key=${this.captchaKey}`, 'PopupWindow', 'width=500,height=600');
         return this.captchaKey;
       } else {
         console.error('Failed to create CAPTCHA:', data.error);
@@ -63,7 +63,7 @@ class onlinecaptcha {
     if (!key) return false;
 
     try {
-      const response = await fetch(`https://captcha.penguinmod.com/check`, {
+      const response = await fetch(`https://captcha.patternyard.dev/check`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

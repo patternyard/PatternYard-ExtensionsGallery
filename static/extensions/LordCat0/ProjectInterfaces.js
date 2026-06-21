@@ -131,7 +131,7 @@
                 color1: "#707eff",
                 color2: "#6675fa",
                 docsURI:
-                    "https://extensions.penguinmod.com/docs/ProjectInterfaces",
+                    "https://extensions.patternyard.dev/docs/ProjectInterfaces",
                 menuIconURI: extIcon,
                 blocks: [
                     {
