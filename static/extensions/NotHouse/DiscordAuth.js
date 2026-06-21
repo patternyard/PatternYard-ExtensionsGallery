@@ -1,6 +1,6 @@
 // DiscordAuth - Made by NotHouse
 // Version 1.2.1
-// Get the lastest official release from https://extensions.patternyard.dev/extensions/NotHouse/DiscordAuth.js
+// Get the latest official release from https://extensions.patternyard.dev/extensions/NotHouse/DiscordAuth.js
 
 function getDataFromObject(data, field) {
   if (data.hasOwnProperty(field)) {
